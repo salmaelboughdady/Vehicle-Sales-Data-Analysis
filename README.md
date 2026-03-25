@@ -15,7 +15,7 @@ I developed this interactive dashboard to analyze global vehicle sales performan
 
 ## Key Analytical Insights:
 - **Classic Cars** was the leading product category, outperforming all other vehicle types.
-- The majority of sales come from **Medium-Sized** deals (Greatest No of Orders:**1384 orders**), contributing approximately 60% of total sales throughout the analysis period.
+- The majority of sales come from **Medium-Sized** deals (Greatest No of Orders: **1384 orders**), contributing approximately 60% of total sales throughout the analysis period.
 - **2004** recorded the highest sales compared to 2003 and 2005.
 - The **(EMEA)** region achieved the highest sales **($4,979,272)** compared to other regions.
 - **USA** is the country with the highest sales **($3,627,982)** followed by **Spain** and **France**.
