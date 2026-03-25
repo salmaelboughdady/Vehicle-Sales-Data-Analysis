@@ -13,7 +13,6 @@ I developed this interactive dashboard to analyze global vehicle sales performan
 - **Top 5 Countries** by Total Sales.
 - Real-time monitoring of: (Total Sales, Average Sales, Number of Orders and Total Quantity).
 
-- 
 ## Key Analytical Insights:
 - **Classic Cars** was the leading product category, outperforming all other vehicle types.
 - The majority of sales come from **Medium-Sized** deals (Greatest No of Orders:**1384 orders**), contributing approximately 60% of total sales throughout the analysis period.
