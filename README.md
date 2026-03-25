@@ -5,24 +5,30 @@ I developed this interactive dashboard to analyze global vehicle sales performan
 - Created an insightful, interactive dashboard featuring dynamic visualizations and slicers to allow users to filter data in real-time.
 
 ## Dashboard Features:
-- Sales distribution by country and global regions.
-- Yearly sales performance comparison across 2003,2004 and 2005.
-- Sales by product line to identify customer preferences.
-- Sales proportion based on deal size (Small, Medium, and Large).
-- Real-time monitoring of: (Total Sales, Average Sales, and Number of Orders).
+- Total Sales by **Product**.
+- Percentage of Sales by **Deal Size**.
+- No of Orders by **Deal Size**
+- Total Sales by **Year** (2003-2005).
+- Total Sales by **Region**.
+- **Top 5 Countries** by Total Sales.
+- Real-time monitoring of: (Total Sales, Average Sales, Number of Orders and Total Quantity).
 
-
+- 
 ## Key Analytical Insights:
-- The **(EMEA)** region achieved the highest sales, contributing 50% of total global sales.
 - **Classic Cars** was the leading product category, outperforming all other vehicle types.
+- The majority of sales come from **Medium-Sized** deals (Greatest No of Orders:**1384 orders**), contributing approximately 60% of total sales throughout the analysis period.
 - **2004** recorded the highest sales compared to 2003 and 2005.
-- The majority of sales come from **Medium-Sized** deals contributing approximately 60% of total sales throughout the analysis period.
+- The **(EMEA)** region achieved the highest sales **($4,979,272)** compared to other regions.
+- **USA** is the country with the highest sales **($3,627,982)** followed by **Spain** and **France**.
 
 ## Dashboard
-<img width="1207" height="455" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/d5dc41cb-55d2-43fb-9bc8-050393aec0d1" />
+<img width="956" height="488" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/26f894f8-ab94-41e9-a2dd-5cefc1467601" />
+
 
 ## Pivot Tables
-<img width="1259" height="402" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/f56e5940-eb5a-4999-9174-4824859ec51b" />
+<img width="1300" height="428" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/c1c19d33-0a46-4db2-a597-8b3db302b55b" />
+
+
 
 
 
