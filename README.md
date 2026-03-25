@@ -1,10 +1,10 @@
 I developed this interactive dashboard to analyze global vehicle sales performance. This project transforms raw data into actionable business insights to track operational efficiency and consumer behavior.
 
-## Technical Implementation:
+## Technical Implementation
 - Used Excel Pivot Tables for data summarization and multi-dimensional analysis.
 - Created an insightful, interactive dashboard featuring dynamic visualizations and slicers to allow users to filter data in real-time.
 
-## Dashboard Features:
+## Dashboard Features
 - Total Sales by **Product**.
 - Percentage of Sales by **Deal Size**.
 - No of Orders by **Deal Size**
@@ -13,7 +13,7 @@ I developed this interactive dashboard to analyze global vehicle sales performan
 - **Top 5 Countries** by Total Sales.
 - Real-time monitoring of: (Total Sales, Average Sales, Number of Orders and Total Quantity).
 
-## Key Analytical Insights:
+## Key Analytical Insights
 - **Classic Cars** was the leading product category, outperforming all other vehicle types.
 - The majority of sales come from **Medium-Sized** deals (Greatest No of Orders: **1384 orders**), contributing approximately 60% of total sales throughout the analysis period.
 - **2004** recorded the highest sales compared to 2003 and 2005.
